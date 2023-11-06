@@ -1,0 +1,36 @@
+.navheader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.links{
+    text-decoration: none;
+    margin-right: 15px;
+    font-size: 20px;
+}
+.li{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.logo{
+    height:10vh;
+    width:8vw;
+}
+.lib{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.but{
+    outline:none;
+    background-color: rgb(63, 63, 225);
+    color:white;
+    text-align: center;
+    border-radius: 5px;
+    border:none;
+    font-size: 20px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
