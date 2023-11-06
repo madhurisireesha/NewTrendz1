@@ -1,0 +1,28 @@
+.loginimg{
+    height:30vh;
+    width:30vw;
+}
+.log{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.l2{
+    padding: 40px;
+    box-shadow: 0px 4px 16px 0px #bfbfbf;
+    border-radius: 15px;
+}
+.loginbut{
+    padding-left:67px;
+    padding-right:67px;
+    margin-top: 10px;
+    background-color: blue;
+    outline: none;
+    border: none;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    color:white;
+    border-radius: 5px;
+}
